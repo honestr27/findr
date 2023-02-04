@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003853529641",
+    "project_id": "frindly-a626b",
+    "storage_bucket": "frindly-a626b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003853529641:android:5c88133c6d57fbb4861238",
+        "android_client_info": {
+          "package_name": "host.expo.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003853529641-iuf60q5qeft2htecmbuk3rvk50qg5sd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaCrZCP52c0ZgSQfelHisKAp04JUVg9Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003853529641-iuf60q5qeft2htecmbuk3rvk50qg5sd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
